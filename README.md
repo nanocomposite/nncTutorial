@@ -1,7 +1,7 @@
 # nanocomposite tutorial
 
 
-Here, we provide a tutorial with the basic command of the  [nanocomposite tool](https://github.com/nanocomposite/nnc).
+Here, we provide a tutorial with the basic command of the  [**nanocomposite** tool](https://github.com/nanocomposite/nnc).
 
 The tutorial is provided in PDF format (*tutorialNNC.pdf*).
 
